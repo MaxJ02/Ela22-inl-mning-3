@@ -1,0 +1,19 @@
+a) Omvandla talet 1101 01102 till dess decimala motsvarighet, både på signerad samt osignerad form.
+
+Svar: Signerad: 214. Osignerad: -42
+
+b) Omvandla talet 300 till dess 16-bitars signerade motsvarighet.
+
+Svar: 0000000100101100
+
+c) Omvandla det decimala talet -12310 till dess 8-bitars 2-komplement.
+
+Svar: 
+
+d) Omvandla det binära talet 0110 1101 0111 10102 till dess hexadecimala motsvarighet.
+
+Svar: 6D7A
+
+e) Omvandla det hexadecimala talet 3F754B0416 till dess binära motsvarighet.
+
+Svar: 0011111101110101010010110000010000010110
